@@ -32,9 +32,9 @@ function createBankAccount(){
     }
 }
 
-let data = createBankAccount()
+// let data = createBankAccount()
 
-console.log(data.deposit(300));
-console.log(data.withdraw(20));
-console.log(data.getBalance());
-console.log(data.getTransactionHistory());
+// console.log(data.deposit(300));
+// console.log(data.withdraw(20));
+// console.log(data.getBalance());
+// console.log(data.getTransactionHistory());
